@@ -1,0 +1,3 @@
+The Input from the User  A:2
+The Input from the User  B:3
+The Sum of A and B is:2+3=5
